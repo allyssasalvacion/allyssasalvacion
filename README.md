@@ -1,6 +1,6 @@
 ### Hey there, I'm Allyssa 👋
 
-- 👩🏻‍💻 Front End Developer at Growsari based in Cebu City, Cebu
+- 👩🏻‍💻 Front End Developer based in Argao, Cebu
 - 🌈 A designer and developer specializing in web interface and experience
 
 
